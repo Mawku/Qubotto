@@ -3,7 +3,7 @@ import numpy as np
 import sys
 import signal
 
-CAMERA_INDEX = 1
+CAMERA_INDEX = 0
 
 COLOR_VALUES = {"Black": -2, "Red": -1, "Yellow": 0, "Green": 1, "Blue": 2}
 
